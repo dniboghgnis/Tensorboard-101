@@ -22,4 +22,4 @@ Copy the generated link and paste it in the browser.
 
 ![alt text](https://github.com/dniboghgnis/Tensorboard-101/blob/master/Tensorboard-drawings/Screenshot%202019-02-23%20at%202.54.22%20AM.png)
 
-Play around with the variables to get a gist of it.
+Change the desired variable to see the expected changes.
