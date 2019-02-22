@@ -23,3 +23,5 @@ Copy the generated link and paste it in the browser.
 ![alt text](https://github.com/dniboghgnis/Tensorboard-101/blob/master/Tensorboard-drawings/Screenshot%202019-02-23%20at%202.54.22%20AM.png)
 
 Change the desired variable to see the expected changes.
+
+Tensorboard doesn't like multiple event files in the same folder. Make sure to delete the previous event file before writing a new one to the folder. Or better use a different folder. [ graphs/101, graphs/102 etc etc.]
